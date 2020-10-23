@@ -1,0 +1,10 @@
+.search {
+    margin: 20px 0px;
+    display: flex;
+}
+
+.search .date-picker {
+    border-right: none;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}

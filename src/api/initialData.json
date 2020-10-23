@@ -1,0 +1,255 @@
+[
+    {
+        "id": 1,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "aaa@example.com"
+                },
+                "to": [
+                    {
+                        "value": "zzz.zzz@example.com"
+                    }
+                ]
+            },
+            "subject": "[ HR-888 ] Notice of official announcement",
+            "body": "We're built on enabling the best of tomorrow's technology and talent. We challenge working styles to solve real-world problems and want you to play a role.Stand out from the rest by gaining practical cloud industry experience, 1-on-1 mentorship in a diverse environment and reap the rewards of being at the forefront of change in Japan.",
+            "attachments": [
+                {
+                    "actachmentId": 1,
+                    "fileType": "file/pdf",
+                    "filename": "Hennge_Back_End.pdf",
+                    "url": "http://example-download.com"
+                },
+                {
+                    "actachmentId": 2,
+                    "fileType": "file/docx",
+                    "filename": "Hennge_Front_End.docx",
+                    "url": "http://example-download.com"
+                }
+            ]
+        },
+        "snippet": "We're built on enabling the best of tomorrow's technology and talent. We challenge ...",
+        "createdDate": "2020-10-20T00:18:22.886Z"
+    },
+    {
+        "id": 2,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "bbb.bbbb@example.com"
+                },
+                "to": [
+                    {
+                        "value": "yyy@example.com"
+                    }
+                ]
+            },
+            "subject": "[Web-333] 'Web Contact'",
+            "body": "We're built on enabling the best of tomorrow's technology and talent. We challenge working styles to solve real-world problems and want you to play a role.Stand out from the rest by gaining practical cloud industry experience, 1-on-1 mentorship in a diverse environment and reap the rewards of being at the forefront of change in Japan.",
+            "attachments": []
+        },
+        "snippet": "We're built on enabling the best of tomorrow's technology and talent. We challenge...",
+        "createdDate": "2020-10-21T00:13:22.886Z"
+    },
+    {
+        "id": 3,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "ccc@example.com"
+                },
+                "to": [
+                    {
+                        "value": "xxx@example.com"
+                    },
+                    {
+                        "value": "yyy@example.com"
+                    }
+                ]
+            },
+            "subject": "Happy New Year! Greetings for the New Year.",
+            "body": "We're built on enabling the best of tomorrow's technology and talent. We challenge working styles to solve real-world problems and want you to play a role.Stand out from the rest by gaining practical cloud industry experience, 1-on-1 mentorship in a diverse environment and reap the rewards of being at the forefront of change in Japan.",
+            "attachments": [
+                {
+                    "actachmentId": 3,
+                    "fileType": "file/docx",
+                    "filename": "Hennge_Internship_Front_End.docx",
+                    "url": "http://example-download.com"
+                }
+            ]
+        },
+        "snippet": "We're built on enabling the best of tomorrow's technology and talent. We challenge...",
+        "createdDate": "2020-09-22T00:46:22.886Z"
+    },
+    {
+        "id": 4,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "ddd.dddd@example.com"
+                },
+                "to": [
+                    {
+                        "value": "vvv.vvv@example.com"
+                    },
+                    {
+                        "value": "lll@example.com"
+                    }
+                ]
+            },
+            "subject": "[HR-887(Revised: Office Expansion Project Team)] Notice of off",
+            "body": "Changing tomorrow is a team effort. We expect to learn from our interns as much as they gain from their experience. We celebrate differences by inviting skilled engineers from all over the globe and ensure every voice counts. Diversity deepens personal growth and keeps our business ahead of the curve. It's a win-win.            .",
+            "attachments": [
+                {
+                    "actachmentId": 4,
+                    "fileType": "img/png",
+                    "filename": "CV_Candidate_01.png",
+                    "url": "http://example-download.com"
+                }
+            ]
+        },
+        "snippet": "We're built on enabling the best of tomorrow's technology and talent. We challenge...",
+        "createdDate": "2020-09-22T00:46:22.886Z"
+    },
+    {
+        "id": 5,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "eee@example.com"
+                },
+                "to": [
+                    {
+                        "value": "sss@example.com"
+                    },
+                    {
+                        "value": "mmm@example.com"
+                    },
+                    {
+                        "value": "nnn@example.com"
+                    }
+                ]
+            },
+            "subject": "[Github] Logout page",
+            "body": "The HENNGE Global Internship Program is a training program without salary. However, accepted participants receive a monthly subsidy to cover living costs such as accommodation, meals and commuting expenses.The HENNGE Global Internship Program is a training program without salary. However, accepted participants receive a monthly subsidy to cover living costs such as accommodation, meals and commuting expenses.",
+            "attachments": [
+                {
+                    "actachmentId": 5,
+                    "fileType": "img/jpg",
+                    "filename": "CV_Candidate_02.jpg",
+                    "url": "http://example-download.com"
+                },
+                {
+                    "actachmentId": 6,
+                    "mimeType": "img/jpg",
+                    "filename": "CV_Candidate_03.jpg",
+                    "url": "http://example-download.com"
+                }
+            ]
+        },
+        "snippet": "The HENNGE Global Internship Program is a training program without salary...",
+        "createdDate": "2020-03-21T06:03:12.886Z"
+    },
+    {
+        "id": 6,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "fff.ffff@example.com"
+                },
+                "to": [
+                    {
+                        "value": "qqq.qqq@example.com"
+                    }
+                ]
+            },
+            "subject": "［ dev］ Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+            "body": "Since starting the program in 2010, we've developed a friendly network that ensures every intern feels at home and gets the most from their experience both professionally and personally, as proven by the former interns we're proud to have since hired as full-time staff. Since starting the program in 2010, we've developed a friendly network that ensures every intern feels at home and gets the most from their experience both professionally and personally, as proven by the former interns we're proud to have since hired as full-time staff.",
+            "attachments": []
+        },
+        "snippet": "Since starting the program in 2010, we've developed a friendly network that ...",
+        "createdDate": "2020-03-16T01:05:34.886Z"
+    },
+    {
+        "id": 7,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "ggg@example.com"
+                },
+                "to": [
+                    {
+                        "value": "ppp@example.com"
+                    }
+                ]
+            },
+            "subject": "Re: [Github] Brush-up on loading animation",
+            "body": "Since starting the program in 2010, we've developed a friendly network that ensures every intern feels at home and gets the most from their experience both professionally and personally, as proven by the former interns we're proud to have since hired as full-time staff. Since starting the program in 2010, we've developed a friendly network that ensures every intern feels at home and gets the most from their experience both professionally and personally, as proven by the former interns we're proud to have since hired as full-time staff.",
+            "attachments": [
+                {
+                    "actachmentId": 7,
+                    "fileType": "file/pdf",
+                    "filename": "Hennge_Software_Engineer.pdf",
+                    "url": "http://example-download.com"
+                }
+            ]
+        },
+        "snippet": "Since starting the program in 2010, we've developed a friendly...",
+        "createdDate": "2020-06-16T02:07:22.886Z"
+    },
+    {
+        "id": 8,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "hhh.hhh@example.com"
+                },
+                "to": [
+                    {
+                        "value": "ooo.ooo@example.com"
+                    }
+                ]
+            },
+            "subject": "Workplace Summary for sample, Inc.: Jun 2 - Jun 9",
+            "body": "With the increasing demand for cloud, many large companies choose to utilize multiple cloud services to improve their work efficiency. However, the lack of linkage in ID management among various tools leads to the inefficiency in work operations. By linking HENNGE One and SmartDB together, companies will be freed from the hassle of managing multiple IDs and passwords, enabling accurate access control and safer, smoother digitalization of operations.",
+            "attachments": [
+                {
+                    "actachmentId": 7,
+                    "fileType": "file/pdf",
+                    "filename": "Hennge_Software_Engineer.pdf",
+                    "url": "http://example-download.com"
+                }
+            ]
+        },
+        "snippet": "With the increasing demand for cloud, many large companies choose to utilize...",
+        "createdDate": "2020-06-19T02:07:22.886Z"
+    },
+    {
+        "id": 9,
+        "payload": {
+            "headers": {
+                "from": {
+                    "value": "iii@example.com"
+                },
+                "to": [
+                    {
+                        "value": "nnn@example.com"
+                    }
+                ]
+            },
+            "subject": "I Love You",
+            "body": "Established in December 1996, DreamArts Corporation provides creative and high-quality solutions and services emphasizing information sharing and interaction under the corporate mission of 'contributing to the development of people, organizations, and society through the joy of collaborative creation. With the slogan of 'Perfecting Co-Creation,' DreamArts helps to solve complicated business problems that neither ICT nor humans can solve alone by ICT and collaborative creation.",
+            "attachments": [
+                {
+                    "actachmentId": 7,
+                    "fileType": "file/pdf",
+                    "filename": "Hennge_Software_Engineer.pdf",
+                    "url": "http://example-download.com"
+                }
+            ]
+        },
+        "snippet": "Established in December 1996, DreamArts Corporation provides creative an...",
+        "createdDate": "2020-06-19T02:07:22.886Z"
+    }
+]

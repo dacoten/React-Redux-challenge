@@ -1,0 +1,13 @@
+.container-fuild {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #ffffff
+}
+
+.home .header {
+  display: flex;
+  justify-content: space-between;
+}

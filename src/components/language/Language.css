@@ -1,0 +1,46 @@
+.language {
+    margin-top: 20px;
+}
+
+.modal-language .item {
+    display: block;
+    -webkit-appearance: none;
+    cursor: pointer;
+    user-select: auto;
+    width: 100%;
+    outline: none;
+    color: rgb(34, 34, 34) !important;
+    background: transparent !important;
+    text-decoration: none !important;
+    font-size: 14px !important;
+    line-height: 18px;
+    text-align: inherit;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-image: initial !important;
+    border-radius: 8px !important;
+    padding: 9px 12px !important;
+    margin: 0px !important;
+}
+
+.modal-language .language .country {
+    color: rgb(113, 113, 113) !important;
+}
+
+.modal-language .active-language {
+    border-color: currentcolor !important;
+}
+
+.modal-language .none-active-language {
+    border-color: transparent !important;
+}
+
+.icon-global {
+    margin-right: 7px;
+    font-size: 15px;
+}
+
+.icon-app-store{
+    margin-right: 7px;
+    font-size: 15px;
+}

@@ -1,0 +1,2 @@
+export const SEARCH_EMAILS = 'SEARCH_EMAILS';
+export const SET_SORT_PARAMS = "SET_SORT_PARAMS";
